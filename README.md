@@ -15,7 +15,7 @@ looking to overcome my high standards.
 
  - **Paradigms**: OOP
  - **Languages:** C#, T-SQL, Javascript
- - **Back-Eend:** .NET Core
+ - **Back-End:** .NET Core
  - **Tools:**  Git
  - **Devtools:** Visual Studio, VS Code
 
