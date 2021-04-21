@@ -29,4 +29,3 @@ looking to overcome my high standards.
 * ... [more](https://github.com/juba97/Book)
 
 > The latest version of resume you can see on https://github.com/juba97/Resume
-
