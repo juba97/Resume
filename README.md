@@ -18,7 +18,12 @@ looking to overcome my high standards.
  - **Back-Eend:** .NET Core
  - **Tools:**  Git
  - **Devtools:** Visual Studio, VS Code
- 
+
+#### **Want to learn**
+
+ * [EDULINQ](https://codeblog.jonskeet.uk/category/edulinq/) - Edulinq series into e-books
+
+
 #### **Favorite Books & Tutorials**
 
 * [C# Complete Reference](https://g.co/kgs/PdGfJK) - by Herbert Schildt 
