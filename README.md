@@ -22,12 +22,12 @@ looking to overcome my high standards.
 #### **Want to learn**
 
  * [EDULINQ](https://codeblog.jonskeet.uk/category/edulinq/) - Edulinq series into e-books
+ * [Grokking Algorithms](https://g.co/kgs/mJZWhZ) -   by Aditya Bhargava
 
 
 #### **Favorite Books & Tutorials**
 
 * [C# Complete Reference](https://g.co/kgs/PdGfJK) - by Herbert Schildt 
-* [Grokking Algorithms](https://g.co/kgs/mJZWhZ) -   by Aditya Bhargava
 * [Intro to JavaScript ES6](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI) - Youtube.com
 * [Algorithms](https://www.youtube.com/playlist?list=PLJTvi6Vq8-z9dFHYbvY5EVTNfgVjAUGWK) - Youtube.com
 * [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - Youtube.com
