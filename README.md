@@ -14,7 +14,7 @@ looking to overcome my high standards.
 #### **Development/Managment Skills**
 
  - **Paradigms**: OOP
- - **Languages:** C#, T-SQL, Javascript
+ - **Languages:** C#, T-SQL, Javascript (ES6)
  - **Back-End:** .NET Core
  - **Tools:**  Git
  - **Devtools:** Visual Studio, VS Code
@@ -28,7 +28,7 @@ looking to overcome my high standards.
 #### **Favorite Books & Tutorials**
 
 * [C# Complete Reference](https://g.co/kgs/PdGfJK) - by Herbert Schildt 
-* [Intro to JavaScript ES6](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI) - Youtube.com
+* [Intro to JavaScript (ES6)](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI) - Youtube.com
 * [Algorithms](https://www.youtube.com/playlist?list=PLJTvi6Vq8-z9dFHYbvY5EVTNfgVjAUGWK) - Youtube.com
 * [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - Youtube.com
 * ... [more](https://github.com/juba97/Book)
