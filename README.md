@@ -4,7 +4,7 @@
 
 **Georgia / Tbilisi / Tel: +995 592 34 10 81** <br/>
 [jubikokoguashvili97@gmail.com](mailto:jubikokoguashvili97@gmail.com)<br/>
-**Experience:** -- <br/>
+**Experience:**  <br/>
 [Github](https://github.com/juba97), [Stackoverflow](https://stackoverflow.com/users/14513605/juba-koguashvili), [Medium](https://juba97.medium.com/), [Twitter](https://twitter.com/jubakoguashvili), [Linkedin](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)
 
 > Creativity is my most exceptional skill. I have incredible attention to detail and
