@@ -3,7 +3,7 @@
 #### .Net Developer
 
 **Georgia / Tbilisi / Tel: +995 551 17 00 40** <br/>
- E-Mail: [jubikokoguashvili97@gmail.com](mailto:jubikokoguashvili97@gmail.com)<br/>
+**E-Mail:** </br> [jubikokoguashvili97@gmail.com](mailto:jubikokoguashvili97@gmail.com)<br/>
 **Experience:**  <br/>
 [Github](https://github.com/juba97), [Stackoverflow](https://stackoverflow.com/users/14513605/juba-koguashvili), [Medium](https://juba97.medium.com/), [Twitter](https://twitter.com/jubakoguashvili), [Linkedin](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)
 
