@@ -17,8 +17,6 @@ looking to overcome my high standards.
  - **JavaScript Library:**  React, AngularJS, JQuery, JSON
  - **Programming Languages:** TypeScript, JavaScript
  - **Server Side:** SQL, MySQL, Node.Js, GIT
- - **Tools:**  Git
- - **Devtools:** Visual Studio, VS Code
 
 #### **Want to learn**
 
