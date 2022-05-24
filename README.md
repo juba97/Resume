@@ -1,6 +1,6 @@
 # Juba Koguashvili @Juba97
 
-#### .Net Developer
+#### Full Stack Developer
 
 **Georgia / Tbilisi / Tel: +995 551 17 00 40** <br/>
 **E-Mail:** </strong> [jubikokoguashvili97@gmail.com](mailto:jubikokoguashvili97@gmail.com)<br/>
@@ -13,9 +13,10 @@ looking to overcome my high standards.
 
 #### **Development/Managment Skills**
 
- - **Paradigms**: OOP
- - **Languages:** C#, T-SQL, Javascript (ES6)
- - **Back-End:** .NET Core
+ - **Markap**: HTML, CSS, Responsive Web Design
+ - **JavaScript Library:**  React, AngularJS, JQuery, JSON
+ - **Programming Languages:** TypeScript, JavaScript
+ - **Server Side:** SQL, MySQL, Node.Js, GIT
  - **Tools:**  Git
  - **Devtools:** Visual Studio, VS Code
 
