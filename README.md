@@ -1,4 +1,4 @@
-# Juba Koguashvili @Juba97
+# Juba Koguashvili
 
 #### Full Stack Developer
 
