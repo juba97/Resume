@@ -14,7 +14,7 @@ looking to overcome my high standards.
 #### **Development/Managment Skills**
 
  - **Markap**: HTML, CSS, Responsive Web Design
- - **JavaScript Library:**  React, AngularJS, JQuery, JSON
+ - **Back-End:**  React, AngularJS, JQuery, JSON
  - **Programming Languages:** TypeScript, JavaScript
  - **Server Side:** SQL, MySQL, Node.Js, GIT
 
