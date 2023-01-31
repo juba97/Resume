@@ -1,6 +1,6 @@
 # Juba Koguashvili
 
-####  Front-End
+ Front-End
 #### Full Stack Developer
 
 **Georgia / Tbilisi / Tel: +995 551 17 00 40** <br/>
