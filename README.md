@@ -1,6 +1,6 @@
 # Juba Koguashvili
 
-#### Full Stack Developer
+#### Full-Stack Developer
 
 **Georgia / Tbilisi / Tel: +995 551 17 00 40** <br/>
 **E-Mail:** </strong> [jubikokoguashvili97@gmail.com](mailto:jubikokoguashvili97@gmail.com)<br/>
