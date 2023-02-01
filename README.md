@@ -16,7 +16,7 @@ looking to overcome my high standards.
  - **Markap**: HTML, CSS, Responsive Web Design
  - **Languages:** JavaScript, TypeScript (ES6) 
  - **Frameworks:**  React, Angular, Vue.js, Node.js
- - **Server Side:** SQL, MySQL, NodeJs, GIT
+ - **Server Side:** SQL, MySQL, GIT
 
 #### **Want to learn**
 
