@@ -32,4 +32,4 @@ looking to overcome my high standards.
 * [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - Youtube.com
 * ... [more](https://github.com/juba97/Book)
 
-> The latest version of resume you can see on https://github.com/juba97/Resume/blob/e3e3fbcd4b8f05a3b08f5c5eb4128ad777236c72/resume.md
+> The latest version of resume you can see on https://github.com/juba97/Resume
