@@ -23,6 +23,7 @@
     ● T-SQL Querying - Kevin Farlee
     ● Youtube resources
     ● SQL Roadmap
+    ● LeetCode Solutions
 
 
 #### **Languages**
