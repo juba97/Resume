@@ -3,7 +3,7 @@
 **Georgia / Tbilisi / Tel: +995 598 10 76 77** <br/>
 **E-Mail:** </strong> [jubikokoguashvili97@gmail.com](mailto:jubikokoguashvili97@gmail.com)<br/>
 **Experience:** 1+ Year </br>
-[Github](https://github.com/juba97), [Linkedin](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)
+[Github](https://github.com/juba97) | [Linkedin](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)
 
 > IT specialist with experience in Microsoft Windows platforms, computer hardware, and working with SQL databases.
   I am looking for an opportunity to strengthen my knowledge and practical experience in software development.
@@ -19,11 +19,11 @@
 
 #### **Education**
 
-    ● W3Schools
+    ● LeetCode SQL Challenges & Problem Solving
+    ● SQL for Data Analysis – W3Schools
     ● T-SQL Querying - Kevin Farlee
     ● Youtube resources
     ● SQL Roadmap
-    ● LeetCode Solutions
 
 
 #### **Languages**
