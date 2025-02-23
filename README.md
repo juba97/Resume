@@ -19,7 +19,7 @@
 
 #### **Education**
 
-    ● LeetCode SQL Challenges & Problem Solving
+    ● LeetCode Challenges & Problem-Solving
     ● SQL for Data Analysis – W3Schools
     ● T-SQL Querying - Kevin Farlee
     ● Youtube resources
