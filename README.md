@@ -16,9 +16,10 @@ development.
  - **Office Applications:** Microsoft Office (Word, Excel, PowerPoint, Outlook)
  - **Databases:** SQL (DDL, DML, TCL, DCL)
  - **Technical Skills:** Knowledge of computer hardware, peripheral device management
+ - **Frontend Testing:** Browser DevTools, HTML, CSS and JavaScript basic
  - **Tools & Formats:** GitHub (repos, documentation), JSON, CSV, Markdown, DevToys, 
         Visual Studio Code,  Miro
- - **API Testing:**   Postman, Swagger, HTTP methods, cookies, query strings, and CRUD 
+ - **API Testing:** Postman, Swagger, HTTP methods, cookies, query strings, and CRUD 
         testing
 
 #### **Education**
