@@ -37,7 +37,7 @@ _Part-Time | Remote 2025 - Present_
 - Collaborated via GitHub on test documentation, version control, and issue tracking
 
 ### API Testing Project Contributor  
-_Flexible | Remote 2024_
+_Flexible | Remote - 2024_
 
 - Performed functional testing on a mock CRUD API with Postman and documented endpoints  
 - Verified request/response structures and status codes based on Swagger documentation  
