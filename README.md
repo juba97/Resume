@@ -1,4 +1,4 @@
-# Juba Koguashvili's CV
+# Juba Koguashvili
 
 **Location:** Georgia / Tbilisi  
 **Email:** [jubikokoguashvili97@gmail.com](mailto:jubikokoguashvili97@gmail.com)  
