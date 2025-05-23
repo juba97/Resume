@@ -21,7 +21,7 @@ _2023 – 2025 (Present)_
 
 - **Focus:** API Testing, SQL Server, GitHub Projects  
 - **Coursework:** Test Automation Principles (Intro to Automation)  
-- **Book:** *T-SQL Fundamentals* by Itzik Ben-Gan  
+- **Book I have read:** *T-SQL Fundamentals* by Itzik Ben-Gan  
 - **Problem-Solving:** LeetCode Challenges
 
 ---
