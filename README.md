@@ -78,5 +78,4 @@ _Flexible | Remote - 2024_
 
 **Bachelor of Laws (LL.B)**  
 _Sep 2015 – Sep 2019_
-
 Focused on criminal law, legal analysis, and legislative frameworks. Developed strong research and argumentation skills through coursework and case study projects.
