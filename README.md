@@ -4,7 +4,6 @@
 **Email:** [jubikokoguashvili97@gmail.com](mailto:jubikokoguashvili97@gmail.com)  
 **Phone:** [+995 598 10 76 77](tel:+995598107677)  
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jubakoguashvili/)  
-**GitHub:** [Github](https://github.com/juba97)
 
 ---
 
