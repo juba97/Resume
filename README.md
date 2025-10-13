@@ -57,6 +57,11 @@ _Flexible | Remote - 2024_
 
 ## Projects
 
+### Kan-Guroo Website QA Improvements
+- Tested key website sections and validated workflows to improve user experience and detect critical issues. Documented findings, suggested
+enhancements, and ensured bug fixes were verified.
+- **Tools:** ClickUp, SQL Server, Browser DevTools
+
 ### Postman Test Suite with Environment Variables  
 **Repository:** [Postman-Swagger](https://github.com/juba97/Postman-Swagger)
 
