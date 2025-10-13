@@ -27,8 +27,17 @@ _2023 – 2025 (Present)_
 
 ## Experience
 
+### QA Manual Tester, Kan-Guroo
+_Full-Time | Remote 2025 - Present_
+
+- Executed manual testing for web pages including Services and About Us sections
+- Created and ran positive and negative test cases covering all key flows and features
+- Reported and tracked bugs using ClickUp and verified fixes with developers
+- Conducted smoke, regression, and exploratory testing for new releases
+- Maintained detailed test documentation for reference and QA knowledge sharing
+
 ### QA Tester, Self-Driven Projects  
-_Part-Time | Remote 2025 - Present_
+_Part-Time | Remote 2025_
 
 - Designed and executed test cases for REST APIs using Postman and Swagger  
 - Used SQL Server to validate backend data and perform query-based testing  
