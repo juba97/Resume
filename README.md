@@ -85,6 +85,7 @@ enhancements, and ensured bug fixes were verified.
 - **Data Formats & Files:** JSON, CSV, XML, Markdown  
 - **Frontend & Scripting:** HTML, CSS, JavaScript, DOM & Events, BOM, Dynamic UI Interactions, Browser DevTools (Elements, Network, Console)  
 - **Architecture & Software Design:** 3-Layer Architecture (Presentation, Business, Persistence), UI/Service/Storage separation
+- **Development & Testing Methodologies:** Agile · Scrum · SDLC · STLC · Defect Life Cycle · Test Case Design Techniques
 
 ---
 
