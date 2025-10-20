@@ -73,7 +73,7 @@ enhancements, and ensured bug fixes were verified.
 **Repository:** [SQL](https://github.com/juba97/SQL)
 
 - Created SQL queries to validate the integrity of the backend data after simulated API operations  
-- **Tools:** SQL Server, T-SQL 
+- **Tools:** SQL Server, T-SQL
 
 ---
 
